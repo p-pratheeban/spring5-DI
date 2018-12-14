@@ -1,0 +1,10 @@
+jms:
+    username: JMS Username
+    password: Test
+    url: jms/jms_mq
+
+---
+spring:
+    profiles: es
+jms:
+    username: JMS Username $$$$$$ German
